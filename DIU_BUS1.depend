@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1648487780 source:c:\users\user\desktop\diu_bus1\road_controller.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+
